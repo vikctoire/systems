@@ -1,0 +1,146 @@
+"FKEY"|"NAME OF THE FACTION"|"initial year"|"when ended"
+"A"|"Abandoned"|missing|missing
+"AB"|"Azami Brotherhood"|"3071"|"3081"
+"AC"|"Azami Caliphate"|"2450"|"2516"
+"AE"|"Amaris Empire"|"2767"|"2779"
+"AG"|"Alliance of Galedon"|"2302"|"2319"
+"ALC"|"Arc-Royal Liberty Coalition"|"3151"|missing
+"AML"|"Alyina Mercantile League"|"3151"|missing
+"AP"|"Axumite Providence"|"2245"|missing
+"AuC"|"Aurigan Coalition"|"2910"|missing
+"AuD"|"Aurigan Directorate"|"3022"|"3025"
+"C"|"Clans"|"2807"|missing
+"CBR"|"Clan Burrock"|"2807"|"3059"
+"CBS"|"Clan Blood Spirit"|"2807"|"3085"
+"CC"|"Capellan Confederation"|"2367"|missing
+"CCC"|"Clan Cloud Cobra"|"2807"|missing
+"CCom"|"Capellan Commonality"|"2310"|"2366"
+"CCY"|"Clan Coyote"|"2807"|missing
+"CDP"|"Calderon Protectorate"|"3066"|missing
+"CDS"|"Clan Diamond Shark"|"2895"|"3100"
+"CF"|"Circinus Federation"|"2785"|"3081"
+"CFM"|"Clan Fire Mandrill"|"2807"|"3073"
+"CGB"|"Clan Ghost Bear"|"2807"|"3060"
+"CGS"|"Clan Goliath Scorpion"|"2807"|"3080"
+"CH"|"Capellan Hegemony"|"2270"|"2310"
+"CHH"|"Clan Hell's Horses"|"2807"|missing
+"CI"|"Chainelane Isles"|missing|missing
+"CIH"|"Clan Ice Hellion"|"2807"|"3074"
+"CJF"|"Clan Jade Falcon"|"2807"|missing
+"CM"|"Chaos March"|"3058"|"3069"
+"CMN"|"Clan Mongoose"|"2807"|"2868"
+"CNC"|"Clan Nova Cat"|"2807"|"3143"
+"CoF"|"Coalition Forces"|"3073"|"3081"
+"CS"|"ComStar"|"2788"|missing
+"CSA"|"Clan Star Adder"|"2807"|missing
+"CSF"|"Clan Sea Fox"|"2807"|missing
+"CSJ"|"Clan Smoke Jaguar"|"2807"|"3060"
+"CSL"|"Clan Stone Lion"|"3075"|missing
+"CSR"|"Clan Snow Raven"|"2807"|"3083"
+"CSV"|"Clan Steel Viper"|"2807"|"3075"
+"CTF"|"Chesterton Trade Federation"|"2220"|"2357"
+"CWF"|"Clan Wolf"|"2807"|"3143"
+"CWM"|"Clan Widowmaker"|"2807"|"2834"
+"CWV"|"Clan Wolverine"|"2807"|"2823"
+"CWX"|"Clan Wolf-in-Exile"|"3057"|missing
+"D"|"Disputed"|missing|missing
+"DA"|"Duchy of Andurien"|"3030"|missing
+"DC"|"Draconis Combine"|"2319"|missing
+"DGM"|"Duchy of Graham-Marik"|"3079"|"3082"
+"DL"|"Duchy of Liao"|"2315"|"2366"
+"DO"|"Duchy of Oriente"|"3079"|"3086"
+"DoO"|"Duchy of Orloff"|"3079"|"3086"
+"DS"|"Duchy of Small"|"3058"|"3066"
+"DT"|"Duchy of Tamarind"|"3071"|"3078"
+"DTA"|"Duchy of Tamarind-Abbey"|"3078"|"3139"
+"EF"|"Elysian Fields"|missing|"3049"
+"EI"|"Escorpión Imperio"|"3080"|"3141"
+"FCF"|"Federated Commonwealth (FS)"|"3028"|"3057"
+"FCL"|"Federated Commonwealth (LC)"|"3028"|"3057"
+"FCo"|"Ferris Collective"|"3087"|missing
+"FFR"|"Finmark Free Republic"|"2779"|"2792"
+"FO"|"Federation of Oriente"|"2241"|"2271"
+"FoS"|"Federation of Skye"|"2299"|"2341"
+"FR"|"Free Rasalhague Republic"|"3034"|"3103"
+"FrR"|"Fronc Reaches"|"3066"|missing
+"FS"|"Federated Suns"|"2317"|missing
+"FvC"|"Filtvelt Coalition"|"3072"|missing
+"FWL"|"Free Worlds League"|"2271"|missing
+"GBD"|"Ghost Bear Dominion"|"3060"|"3103"
+"GL"|"Galatean League"|"3144"|missing
+"GV"|"Greater Valkyrate"|"3028"|"3049"
+"HL"|"Hanseatic League"|"2891"|"3141"
+"I"|"Independent"|missing|missing
+"IE"|"Interstellar Expeditions"|"2974"|missing
+"IP"|"Illyrian Palatinate"|"2350"|"3063"
+"JF"|"JàrnFòlk"|"2500s"|missing
+"KP"|"Kittery Prefecture"|"3073"|"3080"
+"LA"|"Lyran Alliance"|"3057"|"3084"
+"LC"|"Lyran Commonwealth"|"2340"|missing
+"LL"|"Lothian League"|"2691"|missing
+"LR"|"Liao Republic"|"2189"|"2315"
+"MA"|"Mosiro Archipelago"|"3079"|"3081"
+"MaC"|"Malthus Confederation"|"3051"|missing
+"MarA"|"Marlette Association"|"2278"|"2324"
+"MC"|"Malagrotta Cooperative"|"3073"|"3079"
+"MCM"|"Marik Commonwealth"|"3079"|"3082"
+"MH"|"Marian Hegemony"|"2920"|missing
+"MOC"|"Magistracy of Canopus"|"2530"|missing
+"MR"|"Marik Republic"|"2238"|"2271"
+"MSC"|"Marik-Stewart Commonwealth"|"3082"|"3139"
+"MuC"|"Muskegon Coalition"|"2163"|"2317"
+"MV"|"Morgraine's Valkyrate"|"3021"|"3028"
+"NC"|"Nueva Castile"|"2392"|"3080"
+"NCR"|"New Colony Region"|"3057"|"3066"
+"NDC"|"New Delphi Compact"|"2602"|missing
+"NOC"|"New Oberon Confederation"|"3086"|missing
+"OA"|"Outworlds Alliance"|"2413"|"3083"
+"OC"|"Oberon Confederation"|"2775"|"3049"
+"OMA"|"Ozawa Mercantile Association"|missing|"2303"
+"OP"|"Oriente Protectorate"|"3086"|"3139"
+"OZP"|"Ohrenson-Zion Province"|"3079"|"3081"
+"PD"|"Protectorate of Donegal"|"2313"|"2341"
+"PG"|"Principality of Gibson"|"3079"|missing
+"PoR"|"Principality of Rasalhague"|"2260"|"2510"
+"PR"|"Principality of Regulus"|"3079"|"3086"
+"RA"|"Raven Alliance"|"3083"|missing
+"RB"|"Republic of the Barrens"|"3087"|missing
+"RC"|"Rim Collection"|"3048"|"3148"
+"RCM"|"Rim Commonality"|"3075"|"3139"
+"RD"|"Rasalhague Dominion"|"3103"|missing
+"RF"|"Regulan Fiefs"|"3086"|"3148"
+"RFS"|"Regulan Free States"|"3079"|"3086"
+"RP"|"Regulan Principality"|"2243"|"2271"
+"RS"|"Republic of the Sphere"|"3081"|missing
+"RT"|"Rim Territories"|"3087"|missing
+"RU"|"Ragnarök Union"|"3084"|missing
+"RW"|"Rim Worlds Republic"|"2250"|"2769"
+"SA"|"Senate Alliance"|"3135"|"3142"
+"SC"|"Stewart Confederation"|"2259"|"2271"
+"SCo"|"Sian Commonwealth"|"2260"|"2366"
+"SE"|"Scorpion Empire"|"3141"|missing
+"SHC"|"Silver Hawks Coalition"|"3079"|missing
+"SIC"|"St. Ives Compact"|"3029"|"3063"
+"SIMA"|"St. Ives Mercantile Association"|"2245"|"2366"
+"SKC"|"Styk Commonality"|"3058"|"3067"
+"SLIE"|"Star League-in-Exile"|"2786"|"2801"
+"SS"|"Sarna Supremacy"|"2175"|"2366"
+"ST"|"Saiph Triumvirate"|"3057"|"3068"
+"TA"|"Terran Alliance"|"2086"|"2315"
+"TamP"|"Tamar Pact"|"2235"|"2341"
+"TC"|"Taurian Concordat"|"2335"|missing
+"TCC"|"Terracap Confederation"|"3058"|"3067"
+"TD"|"Tortuga Dominions"|"2785"|missing
+"TFR"|"Tikonov Free Republic"|"3029"|"3031"
+"TGU"|"Tikonov Grand Union"|"2177"|"2366"
+"TH"|"Terran Hegemony"|"2316"|"2767"
+"THa"|"The Havens"|"3089"|missing
+"THW"|"Taurian Homeworlds"|"2253"|"2235"
+"TiC"|"Timbuktu Collective"|"3148"|missing
+"TP"|"The Protectorate"|"3079"|missing
+"TR"|"The Republic Remnant"|"3135"|missing
+"U"|"Undiscovered"|missing|missing
+"UHC"|"United Hindu Collective"|"2240"|"2540"
+"VM"|"Vesper Marches"|"3051"|missing
+"WB"|"Word of Blake"|"3052"|missing
+"WE"|"Wolf Empire"|"3143"|missing
